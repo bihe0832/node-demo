@@ -1,8 +1,1 @@
-## 运行方式
-
-在目录运行命令`node server.js`
-
-	➜  http git:(master) ✗ node server.js
-	Server running at http://127.0.0.1:3000/
-	
-然后在浏览器打开：http://127.0.0.1:3000/
+运行参考文章：nodejs入门之后台服务的几种启动方式：[https://blog.bihe0832.com/node-server-setup.html](https://blog.bihe0832.com/node-server-setup.html)
