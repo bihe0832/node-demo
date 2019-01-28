@@ -5,7 +5,7 @@ http.createServer(function  (request, response)  {
 // 内容类型: text/plain 
 response.writeHead(200,  {'Content-Type':  'text/plain'});  
 // 发送响应数据 "Hello World" 
-response.end('Hello, zixie! this is a new World\n');  
+response.end('Hello, zixie! this is a new World!\n');  
 }).listen(3000);  
 // 终端打印如下信息 
 console.log('Server running at http://127.0.0.1:3000/');
